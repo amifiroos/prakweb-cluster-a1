@@ -1,0 +1,26 @@
+header {
+		width: 784px;
+		height: 200px;
+		background-image: url(https://www.epcmi.com/IMG/jpg/69648590-header-wallpapers.jpg);
+	}
+
+	.kolom1 {
+		font-size: 23.5px;
+		width: 200px;
+		height: auto;
+		position: fixed;
+		background-color: yellow;
+	}
+	.kolom2 {
+		width: 584px;
+		height: auto;
+		background-color: rgb(46, 189, 190);
+		margin-left: 200px;
+	}
+
+	footer {
+		width: 784px;
+		height: 100px;
+		justify-content: center;
+	  	display: flex;
+	}
